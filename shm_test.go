@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/hidez8891/shm"
+	"github.com/zjzjzjzj1874/shm"
 )
 
 func create(t *testing.T, tag string, size int32) *shm.Memory {
